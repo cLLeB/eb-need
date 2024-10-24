@@ -1,0 +1,11 @@
+.greener{
+color:green;
+font-size:1.2rem;
+}
+.redee{
+color:red;
+}
+.greener,.redee{font-style:italic}
+article h2 {color:orange;}
+ul>li{list-style-type:rectangle;}
+article h2:hover {color:violet;}

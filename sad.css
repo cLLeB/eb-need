@@ -1,0 +1,35 @@
+.greener{
+    color:green;
+    font-size:1.2rem;
+    }
+.redee{
+    color:red;
+    }
+.greener,.redee{font-style:italic}
+article h2 {color:orange;}
+ul>li{list-style-type:square;}
+article h2:hover {color:violet;}
+header {
+     background-color:antiquewhite;
+     color:blue;
+    }
+    *{
+        font-family: 'Segoe UI';
+    }
+    .greener,.damp{ 
+        color:blanchedalmond;
+    }
+    .bes,.pes{
+        color:brown;
+    }
+    .next,.pext{
+        color:blueviolet;
+    }
+    .fish,.dish{
+        color:teal;
+    }
+    header h1 {color:palevioletred;}
+    header h1:hover{color:brown;}
+    aside h3 {color:brown;}
+    aside h3 ul {color:violet;}
+    .west,.better{color:blueviolet;}
